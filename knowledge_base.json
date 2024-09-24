@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "heyyy!"
+    },
+    {
+      "question": "hei",
+      "answer": "hii"
+    },
+    {
+      "question": "heyyy!",
+      "answer": "heyyy"
+    },
+    {
+      "question": "(.*)help(.*)",
+      "answer": "how can I assist you further?"
+    },
+    {
+      "question": "i need help",
+      "answer": "ok"
+    },
+    {
+      "question": "/usr/local/bin/python3 /Users/nhathan/Desktop/chatbot/main.py",
+      "answer": "/usr/local/bin/python3 Untitled-1"
+    },
+    {
+      "question": "hiii",
+      "answer": "hiihihihihi"
+    },
+    {
+      "question": "hijihihihih",
+      "answer": "hii"
+    },
+    {
+      "question": "hihihihihihiiihihhihhihiihihihihihiihihihii",
+      "answer": "hi"
+    }
+  ]
+}
